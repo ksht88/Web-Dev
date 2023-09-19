@@ -1,0 +1,35 @@
+[33mcommit 69fc58fc8327b5c6f0a1df70321aa59de41cf53b[m[33m ([m[1;36mHEAD -> [m[1;32mdelete[m[33m)[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 19:10:10 2023 +0530
+
+    added file3.txt
+
+[33mcommit aab2bf797998468209ec3745029bb31ef4d33750[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 19:09:21 2023 +0530
+
+    added file2.txt
+
+[33mcommit 8931ba5048b8c4b65f799c94f97a8691c089fb2d[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 19:03:37 2023 +0530
+
+    added file1.txt
+
+[33mcommit 67e18f3907806708ffc906eaacaa34f3b216b1ad[m[33m ([m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 17:50:25 2023 +0530
+
+    added new feature
+
+[33mcommit 7feb56d2c1c826276a25b41b47a1fb5f83248ec9[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 13:17:43 2023 +0530
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 46477b465c2b7e513e3285bfdd5f0edb3e99d670[m
+Author: Ishant Kataria <katariaishant3@gmail.com>
+Date:   Sun Sep 17 12:52:00 2023 +0530
+
+    added text.txt file
